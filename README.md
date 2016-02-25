@@ -1,4 +1,4 @@
 # hello-world
 First repository
 
-Bla bla bla blalalala!
+My name is George and i like Coke!
